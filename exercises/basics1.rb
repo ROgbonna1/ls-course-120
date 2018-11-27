@@ -1,6 +1,6 @@
 module Walkable
   def walk
-    puts "#{self.name} is walking!"
+    puts "#{name} is walking!"
   end
 end
 
