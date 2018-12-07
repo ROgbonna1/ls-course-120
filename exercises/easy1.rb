@@ -76,3 +76,4 @@ puts queue.dequeue == 5
 puts queue.dequeue == 6
 puts queue.dequeue == 7
 puts queue.dequeue == nil
+
